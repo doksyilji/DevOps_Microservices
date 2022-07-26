@@ -14,5 +14,6 @@ Udacity devops course on microservices
 * Loadtest and verify auto-scale
 
 ## Boston Housing Dataset Pickled model Colab
+## assed this line to allow a push
 
 https://github.com/noahgift/boston_housing_pickle
